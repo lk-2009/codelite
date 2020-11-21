@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="codelite" Database="" Version="10.0.0">
+  <Project Name="20201114-aria-perimetru" Path="20201114-1/20201114-1.project" Active="No"/>
+  <Project Name="20201114-2" Path="20201114-2/20201114-2.project" Active="Yes"/>
+  <Project Name="20201114-3" Path="20201114-3/20201114-3.project" Active="No"/>
+  <Project Name="20201114-4" Path="20201114-4/20201114-4.project" Active="No"/>
+  <Project Name="20201114-5" Path="20201114-5/20201114-5.project" Active="No"/>
+  <Project Name="20201114-8" Path="20201114-8/20201114-8.project" Active="No"/>
+  <Project Name="20201107-1" Path="20201107-1/20201107-1.project" Active="No"/>
+  <Project Name="20201107-2" Path="20201107-2/20201107-2.project" Active="No"/>
+  <Project Name="20201107-3" Path="20201107-3/20201107-3.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="20201114-aria-perimetru" ConfigName="Debug"/>
+      <Project Name="20201114-2" ConfigName="Debug"/>
+      <Project Name="20201114-3" ConfigName="Debug"/>
+      <Project Name="20201114-4" ConfigName="Debug"/>
+      <Project Name="20201114-5" ConfigName="Debug"/>
+      <Project Name="20201114-8" ConfigName="Debug"/>
+      <Project Name="20201107-1" ConfigName="Debug"/>
+      <Project Name="20201107-2" ConfigName="Debug"/>
+      <Project Name="20201107-3" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="20201114-aria-perimetru" ConfigName="Release"/>
+      <Project Name="20201114-2" ConfigName="Release"/>
+      <Project Name="20201114-3" ConfigName="Release"/>
+      <Project Name="20201114-4" ConfigName="Release"/>
+      <Project Name="20201114-5" ConfigName="Release"/>
+      <Project Name="20201114-8" ConfigName="Release"/>
+      <Project Name="20201107-1" ConfigName="Release"/>
+      <Project Name="20201107-2" ConfigName="Release"/>
+      <Project Name="20201107-3" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
