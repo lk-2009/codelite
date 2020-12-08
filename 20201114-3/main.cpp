@@ -1,8 +1,8 @@
 #include <iostream>
 
 using namespace std;
-int x, y;
-int t;
+int x, y, t;
+
 int main()
 {
     cin >> x >> y;

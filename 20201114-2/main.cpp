@@ -1,8 +1,8 @@
 #include <iostream>
 
 using namespace std;
-int a, b;
-int n1, n2;
+int a, b, n1, n2;
+
 int main()
 {
     cin >> a >> b;

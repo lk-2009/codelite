@@ -1,27 +1,83 @@
 [{
+  "file": "/Users/Luca/Documents/programare/codelite/20201205_ex8/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201205_ex8",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201205_ex8/main.cpp -o /Users/Luca/Documents/programare/codelite/20201205_ex8/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Luca/Documents/programare/codelite/20201205_ex7/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201205_ex7",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201205_ex7/main.cpp -o /Users/Luca/Documents/programare/codelite/20201205_ex7/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Luca/Documents/programare/codelite/20201205_ex5/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201205_ex5",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201205_ex5/main.cpp -o /Users/Luca/Documents/programare/codelite/20201205_ex5/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Luca/Documents/programare/codelite/20201205_ex4/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201205_ex4",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201205_ex4/main.cpp -o /Users/Luca/Documents/programare/codelite/20201205_ex4/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Luca/Documents/programare/codelite/20201205/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201205",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201205/main.cpp -o /Users/Luca/Documents/programare/codelite/20201205/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Luca/Documents/programare/codelite/20201128_tema_2/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201128_tema_2",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201128_tema_2/main.cpp -o /Users/Luca/Documents/programare/codelite/20201128_tema_2/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
   "file": "/Users/Luca/Documents/programare/codelite/20201107-2/main.cpp",
   "directory": "/Users/Luca/Documents/programare/codelite/20201107-2",
   "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201107-2/main.cpp -o /Users/Luca/Documents/programare/codelite/20201107-2/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
  }, {
-  "file": "/Users/Luca/Documents/programare/codelite/20201114-8/main.cpp",
-  "directory": "/Users/Luca/Documents/programare/codelite/20201114-8",
-  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201114-8/main.cpp -o /Users/Luca/Documents/programare/codelite/20201114-8/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+  "file": "/Users/Luca/Documents/programare/codelite/20201128_tema_1/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201128_tema_1",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201128_tema_1/main.cpp -o /Users/Luca/Documents/programare/codelite/20201128_tema_1/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
  }, {
-  "file": "/Users/Luca/Documents/programare/codelite/20201107-3/main.cpp",
-  "directory": "/Users/Luca/Documents/programare/codelite/20201107-3",
-  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201107-3/main.cpp -o /Users/Luca/Documents/programare/codelite/20201107-3/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+  "file": "/Users/Luca/Documents/programare/codelite/20201205_ex3/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201205_ex3",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201205_ex3/main.cpp -o /Users/Luca/Documents/programare/codelite/20201205_ex3/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
  }, {
-  "file": "/Users/Luca/Documents/programare/codelite/20201107-1/main.cpp",
-  "directory": "/Users/Luca/Documents/programare/codelite/20201107-1",
-  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201107-1/main.cpp -o /Users/Luca/Documents/programare/codelite/20201107-1/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+  "file": "/Users/Luca/Documents/programare/codelite/20201128_6/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201128_6",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201128_6/main.cpp -o /Users/Luca/Documents/programare/codelite/20201128_6/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
  }, {
-  "file": "/Users/Luca/Documents/programare/codelite/20201114-4/main.cpp",
-  "directory": "/Users/Luca/Documents/programare/codelite/20201114-4",
-  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201114-4/main.cpp -o /Users/Luca/Documents/programare/codelite/20201114-4/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+  "file": "/Users/Luca/Documents/programare/codelite/20201128_4/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201128_4",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201128_4/main.cpp -o /Users/Luca/Documents/programare/codelite/20201128_4/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Luca/Documents/programare/codelite/20201128_3/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201128_3",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201128_3/main.cpp -o /Users/Luca/Documents/programare/codelite/20201128_3/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
  }, {
   "file": "/Users/Luca/Documents/programare/codelite/20201114-3/main.cpp",
   "directory": "/Users/Luca/Documents/programare/codelite/20201114-3",
   "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201114-3/main.cpp -o /Users/Luca/Documents/programare/codelite/20201114-3/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Luca/Documents/programare/codelite/20201128_2/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201128_2",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201128_2/main.cpp -o /Users/Luca/Documents/programare/codelite/20201128_2/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Luca/Documents/programare/codelite/20201114-1/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201114-1",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201114-1/main.cpp -o /Users/Luca/Documents/programare/codelite/20201114-1/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Luca/Documents/programare/codelite/20201128_1/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201128_1",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201128_1/main.cpp -o /Users/Luca/Documents/programare/codelite/20201128_1/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Luca/Documents/programare/codelite/20201128_5/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201128_5",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201128_5/main.cpp -o /Users/Luca/Documents/programare/codelite/20201128_5/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Luca/Documents/programare/codelite/2020-11-21_tema/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/2020-11-21_tema",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/2020-11-21_tema/main.cpp -o /Users/Luca/Documents/programare/codelite/2020-11-21_tema/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Luca/Documents/programare/codelite/20201205_ex2/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201205_ex2",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201205_ex2/main.cpp -o /Users/Luca/Documents/programare/codelite/20201205_ex2/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Luca/Documents/programare/codelite/20201114-8/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201114-8",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201114-8/main.cpp -o /Users/Luca/Documents/programare/codelite/20201114-8/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
  }, {
   "file": "/Users/Luca/Documents/programare/codelite/20201114-5/main.cpp",
   "directory": "/Users/Luca/Documents/programare/codelite/20201114-5",
@@ -31,7 +87,23 @@
   "directory": "/Users/Luca/Documents/programare/codelite/20201114-2",
   "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201114-2/main.cpp -o /Users/Luca/Documents/programare/codelite/20201114-2/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
  }, {
-  "file": "/Users/Luca/Documents/programare/codelite/20201114-1/main.cpp",
-  "directory": "/Users/Luca/Documents/programare/codelite/20201114-1",
-  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201114-1/main.cpp -o /Users/Luca/Documents/programare/codelite/20201114-1/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+  "file": "/Users/Luca/Documents/programare/codelite/20201114-4/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201114-4",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201114-4/main.cpp -o /Users/Luca/Documents/programare/codelite/20201114-4/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Luca/Documents/programare/codelite/20201107-1/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201107-1",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201107-1/main.cpp -o /Users/Luca/Documents/programare/codelite/20201107-1/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Luca/Documents/programare/codelite/20201205_ex6/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201205_ex6",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201205_ex6/main.cpp -o /Users/Luca/Documents/programare/codelite/20201205_ex6/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Luca/Documents/programare/codelite/20201107-3/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201107-3",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201107-3/main.cpp -o /Users/Luca/Documents/programare/codelite/20201107-3/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Luca/Documents/programare/codelite/20201205_ex1/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/codelite/20201205_ex1",
+  "command": "clang  -c /Users/Luca/Documents/programare/codelite/20201205_ex1/main.cpp -o /Users/Luca/Documents/programare/codelite/20201205_ex1/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
  }]

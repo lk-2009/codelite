@@ -2,6 +2,7 @@
 
 using namespace std;
 int x, y, aria, P;
+
 int main()
 {
     cin >> x >> y;
