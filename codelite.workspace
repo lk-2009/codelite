@@ -24,15 +24,23 @@
     <Project Name="20201128_tema_1" Path="20201128_tema_1/20201128_tema_1.project" Active="No"/>
     <Project Name="20201128_tema_2" Path="20201128_tema_2/20201128_tema_2.project" Active="No"/>
   </VirtualDirectory>
-  <Project Name="20201205" Path="20201205/20201205.project" Active="No"/>
-  <Project Name="20201205_ex1" Path="20201205_ex1/20201205_ex1.project" Active="No"/>
-  <Project Name="20201205_ex2" Path="20201205_ex2/20201205_ex2.project" Active="No"/>
-  <Project Name="20201205_ex3" Path="20201205_ex3/20201205_ex3.project" Active="No"/>
-  <Project Name="20201205_ex4" Path="20201205_ex4/20201205_ex4.project" Active="No"/>
-  <Project Name="20201205_ex5" Path="20201205_ex5/20201205_ex5.project" Active="No"/>
-  <Project Name="20201205_ex6" Path="20201205_ex6/20201205_ex6.project" Active="No"/>
-  <Project Name="20201205_ex7" Path="20201205_ex7/20201205_ex7.project" Active="No"/>
-  <Project Name="20201205_ex8" Path="20201205_ex8/20201205_ex8.project" Active="Yes"/>
+  <VirtualDirectory Name="2020-12-05-all">
+    <Project Name="2020-12-05" Path="20201205/20201205.project" Active="No"/>
+    <Project Name="20201205_ex1" Path="20201205_ex1/20201205_ex1.project" Active="No"/>
+    <Project Name="20201205_ex2" Path="20201205_ex2/20201205_ex2.project" Active="No"/>
+    <Project Name="20201205_ex3" Path="20201205_ex3/20201205_ex3.project" Active="No"/>
+    <Project Name="20201205_ex4" Path="20201205_ex4/20201205_ex4.project" Active="No"/>
+    <Project Name="20201205_ex5" Path="20201205_ex5/20201205_ex5.project" Active="No"/>
+    <Project Name="20201205_ex6" Path="20201205_ex6/20201205_ex6.project" Active="No"/>
+    <Project Name="20201205_ex7" Path="20201205_ex7/20201205_ex7.project" Active="No"/>
+    <Project Name="20201205_ex8" Path="20201205_ex8/20201205_ex8.project" Active="No"/>
+    <Project Name="20201205_ex9" Path="20201205_ex9/20201205_ex9.project" Active="No"/>
+  </VirtualDirectory>
+  <Project Name="20201212_ex1" Path="20201212_ex1/20201212_ex1.project" Active="No"/>
+  <Project Name="20201212_ex3" Path="20201212_ex3/20201212_ex3.project" Active="No"/>
+  <Project Name="20201212_ex2" Path="20201212_ex4/20201212_ex4.project" Active="No"/>
+  <Project Name="20201212_ex2" Path="20201212_ex2/20201212_ex2.project" Active="No"/>
+  <Project Name="20201212-ex4" Path="20201212-ex4/20201212-ex4.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -54,7 +62,7 @@
       <Project Name="20201128_6" ConfigName="Debug"/>
       <Project Name="20201128_tema_1" ConfigName="Debug"/>
       <Project Name="20201128_tema_2" ConfigName="Debug"/>
-      <Project Name="20201205" ConfigName="Debug"/>
+      <Project Name="2020-12-05" ConfigName="Debug"/>
       <Project Name="20201205_ex1" ConfigName="Debug"/>
       <Project Name="20201205_ex2" ConfigName="Debug"/>
       <Project Name="20201205_ex3" ConfigName="Debug"/>
@@ -63,6 +71,12 @@
       <Project Name="20201205_ex6" ConfigName="Debug"/>
       <Project Name="20201205_ex7" ConfigName="Debug"/>
       <Project Name="20201205_ex8" ConfigName="Debug"/>
+      <Project Name="20201205_ex9" ConfigName="Debug"/>
+      <Project Name="20201212_ex1" ConfigName="Debug"/>
+      <Project Name="20201212_ex3" ConfigName="Debug"/>
+      <Project Name="20201212_ex2" ConfigName="Debug"/>
+      <Project Name="20201212_ex2" ConfigName="Debug"/>
+      <Project Name="20201212-ex4" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -84,7 +98,7 @@
       <Project Name="20201128_6" ConfigName="Release"/>
       <Project Name="20201128_tema_1" ConfigName="Release"/>
       <Project Name="20201128_tema_2" ConfigName="Release"/>
-      <Project Name="20201205" ConfigName="Release"/>
+      <Project Name="2020-12-05" ConfigName="Release"/>
       <Project Name="20201205_ex1" ConfigName="Release"/>
       <Project Name="20201205_ex2" ConfigName="Release"/>
       <Project Name="20201205_ex3" ConfigName="Release"/>
@@ -93,6 +107,12 @@
       <Project Name="20201205_ex6" ConfigName="Release"/>
       <Project Name="20201205_ex7" ConfigName="Release"/>
       <Project Name="20201205_ex8" ConfigName="Release"/>
+      <Project Name="20201205_ex9" ConfigName="Release"/>
+      <Project Name="20201212_ex1" ConfigName="Release"/>
+      <Project Name="20201212_ex3" ConfigName="Release"/>
+      <Project Name="20201212_ex2" ConfigName="Release"/>
+      <Project Name="20201212_ex2" ConfigName="Release"/>
+      <Project Name="20201212-ex4" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
