@@ -40,7 +40,12 @@
   <Project Name="20201212_ex3" Path="20201212_ex3/20201212_ex3.project" Active="No"/>
   <Project Name="20201212_ex2" Path="20201212_ex4/20201212_ex4.project" Active="No"/>
   <Project Name="20201212_ex2" Path="20201212_ex2/20201212_ex2.project" Active="No"/>
-  <Project Name="20201212-ex4" Path="20201212-ex4/20201212-ex4.project" Active="Yes"/>
+  <Project Name="20201212-ex4" Path="20201212-ex4/20201212-ex4.project" Active="No"/>
+  <Project Name="20201219_5" Path="20201219_5/20201219_5.project" Active="No"/>
+  <Project Name="20201219_6" Path="20201219_6/20201219_6.project" Active="Yes"/>
+  <Project Name="20201219_7" Path="20201219_7/20201219_7.project" Active="No"/>
+  <Project Name="20201219_8" Path="20201219_8/20201219_8.project" Active="No"/>
+  <Project Name="20201219_9" Path="20201219_9/20201219_9.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -77,6 +82,11 @@
       <Project Name="20201212_ex2" ConfigName="Debug"/>
       <Project Name="20201212_ex2" ConfigName="Debug"/>
       <Project Name="20201212-ex4" ConfigName="Debug"/>
+      <Project Name="20201219_5" ConfigName="Debug"/>
+      <Project Name="20201219_6" ConfigName="Debug"/>
+      <Project Name="20201219_7" ConfigName="Debug"/>
+      <Project Name="20201219_8" ConfigName="Debug"/>
+      <Project Name="20201219_9" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -113,6 +123,11 @@
       <Project Name="20201212_ex2" ConfigName="Release"/>
       <Project Name="20201212_ex2" ConfigName="Release"/>
       <Project Name="20201212-ex4" ConfigName="Release"/>
+      <Project Name="20201219_5" ConfigName="Release"/>
+      <Project Name="20201219_6" ConfigName="Release"/>
+      <Project Name="20201219_7" ConfigName="Release"/>
+      <Project Name="20201219_8" ConfigName="Release"/>
+      <Project Name="20201219_9" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
